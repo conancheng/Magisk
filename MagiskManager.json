@@ -2,21 +2,21 @@
   "app": {
     "version": "7.5.1",
     "versionCode": "267",
-    "link": "https://gitee.com/conancheng/MagiskManager/raw/master/MagiskManager-v7.5.1.apk",
-    "note": "https://gitee.com/conancheng/MagiskManager/raw/master/changelog.md"
+    "link": "https://raw.sevencdn.com/conancheng/Magisk/master/MagiskManager-v7.5.1.apk",
+    "note": "https://raw.sevencdn.com/conancheng/Magisk/master/changelog.md"
   },
   "uninstaller": {
-    "link": "https://gitee.com/conancheng/MagiskManager/raw/master/Magisk-uninstaller-20200323.zip"
+    "link": "https://raw.sevencdn.com/conancheng/Magisk/master/Magisk-uninstaller-20200323.zip"
   },
   "magisk": {
     "version": "20.4",
     "versionCode": "20400",
-    "link": "https://gitee.com/conancheng/MagiskManager/raw/master/Magisk-v20.4.zip",
-    "note": "https://gitee.com/conancheng/MagiskManager/raw/master/notes.md",
+    "link": "https://raw.sevencdn.com/conancheng/Magisk/master/Magisk-v20.4.zip",
+    "note": "https://raw.sevencdn.com/conancheng/Magisk/master/notes.md",
     "md5": "9503fc692e03d60cb8897ff2753c193f"
   },
   "stub": {
     "versionCode": "7",
-    "link": "https://gitee.com/conancheng/MagiskManager/raw/master/stub-release.apk"
+    "link": "https://raw.sevencdn.com/conancheng/Magisk/master/stub-release.apk"
   }
 }
